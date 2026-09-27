@@ -11,3 +11,21 @@
 ## Learning record
 
 This repository marks an early C-programming practice workspace. No code was committed, so there is nothing to run or review. It remains archived to keep the learning history honest and the active portfolio focused.
+
+## Repository record
+
+~~~mermaid
+flowchart LR
+    A[C practice workspace] --> B[Repository created]
+    B --> C[No C source committed]
+    C --> D[Archived learning marker]
+~~~
+
+| Check | Result |
+| --- | --- |
+| C source files | None committed |
+| Build files | None committed |
+| Runnable program | Not available |
+| Portfolio status | Historical learning marker only |
+
+If this practice is restarted, use a separate active repository and keep this workspace as the original historical record.
